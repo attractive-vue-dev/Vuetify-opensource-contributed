@@ -1,0 +1,8 @@
+# Navigate to the vuetify folder
+cd vuetify
+
+# Install all project dependencies
+yarn
+
+# Build the packages
+yarn build
